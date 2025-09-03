@@ -34,13 +34,13 @@ The suite includes:
 
 ## Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](<img width="1281" height="725" alt="Image" src="https://github.com/user-attachments/assets/a2f3e7b2-7b11-4ee0-a889-f8774f267496" />)
 
 
 ## How to Use
 
 1. Open `Dashboard` in **Power BI Desktop**
-2. Load the included  dataset (`sample_data.csv`)
+2. Load the included  dataset 
 3. Explore dashboards, use slicers, drill-through, bookmarks, buttons, and dynamic page navigation
 
 ---
